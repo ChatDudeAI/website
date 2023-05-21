@@ -1,0 +1,15 @@
+
+      
+     @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Wix+Madefor+Display&display=swap')
+      
+      h1, h2, h3, h4, h5, h6, p, {
+        text-align: center;
+        font-family: 'Roboto';
+      }
+      #banner {
+        font-family: 'Wix Madefor Display';
+        text-align: center;
+        background-color:  teal;
+        padding: 50px;
+      }
+      
