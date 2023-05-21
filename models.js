@@ -1,5 +1,5 @@
 function Models() {
-        return <h1>Hello World!</h1>;
+        return <a href="https://github.com/ChatDudeAI/ChatDudeAI">ChatDude - Our flagship model.</a><br>;
       }
 
 const container = document.getElementById('models');
